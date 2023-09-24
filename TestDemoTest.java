@@ -59,7 +59,7 @@ class TestDemoTest {
 	  int fiveSquared = mockDemo.randomNumberSquared();
 	  
 	  //Assert
-	  assertThat(fiveSquared).isEqualTo(26);
+	  assertThat(fiveSquared).isEqualTo(25);
   }
 	  
   }
